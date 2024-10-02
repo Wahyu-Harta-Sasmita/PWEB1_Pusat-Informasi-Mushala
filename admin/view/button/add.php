@@ -1,0 +1,1 @@
+<a href="/php_test1/admin/controller/dokter.php?page=add"><img src="/php_test1/assets/images/add-alert.png" alt="add-btn"></a>
